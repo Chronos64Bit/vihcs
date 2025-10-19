@@ -1,0 +1,10 @@
+{
+  "name": "vihcs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "nanoid": "^4.0.0",
+    "multer": "^1.4.5"
+  }
+}
